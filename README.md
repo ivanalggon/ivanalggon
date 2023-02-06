@@ -6,7 +6,7 @@
 
 
 
-🧠Prommaming Lenguages | Android, Python, Java, PHP, C#
+🧠Programing Lenguages | Android, Python, Java, PHP, C#
 
 
 
