@@ -1,13 +1,18 @@
-📚Studing | DAM (Desarrollo de Aplicaciones Multiplataforma)
+📚Studing | DAW (Desarrollo de Aplicaciones Web)
 
 
 
-💻Workplace | AVANNUBO; AVANCEM GRUP, Barcelona (Working with Python)
+🧠Programing Lenguages | HTML, CSS, JavaScript, Java, Python, PHP, C#
 
 
 
-🧠Programing Lenguages | Android, Python, Java, PHP, C#
+🎯Objectives | Find a job and continue training in programming
 
 
 
-🐱‍🏍Future Goals | I will want to study DAW (Desarrollo de Aplicaciones Web)
+🐱‍🏍My Studies | SMX (Sistemes Microinformátics en xarxa)
+                DAM (Desarrollo de Aplicaciones Multiplataforma)
+
+
+
+                
