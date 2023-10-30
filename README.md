@@ -11,7 +11,7 @@
 
 
 🐱‍🏍My Studies | SMX (Sistemes Microinformátics en xarxa)
-                DAM (Desarrollo de Aplicaciones Multiplataforma)
+DAM (Desarrollo de Aplicaciones Multiplataforma)
 
 
 
