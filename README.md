@@ -1,4 +1,4 @@
-📚Studing | #DAW (Desarrollo de Aplicaciones Web)
+#📚Studing | DAW (Desarrollo de Aplicaciones Web)
 
 
 
