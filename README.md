@@ -21,7 +21,7 @@
 
 ### ⚙ DEVELOPMENT TOOLS
 
-- Figma -> Web Design
-- Visual Studio Code -> Framework
-- GitHub -> Save Code and Documents
-- LogSeq -> Documentation and notes
+- [Figma](https://www.figma.com/) -> Web Design
+- [Visual Studio Code](https://code.visualstudio.com/) -> Framework
+- [GitHub](https://github.com/) -> Save Code and Documents
+- [LogSeq](https://logseq.com/) -> Documentation and notes
