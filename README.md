@@ -24,3 +24,4 @@
 - Figma -> Web Design
 - Visual Studio Code -> Framework
 - GitHub -> Save Code and Documents
+- LogSeq -> Documentation and notes
