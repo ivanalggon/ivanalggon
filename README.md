@@ -1,17 +1,26 @@
-📚Studing | DAW (Desarrollo de Aplicaciones Web)
+### 🐱‍🏍 MY STUDIES
 
+- SMX (Networked Microcomputer Systems) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
+- DAM (Multiplatform Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
+- StudyingDAW (Web Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
+  
+### 🧠 PROGRAMMING LENGUAGES
 
+- HTML
+- CSS
+- JavaScript
+- Python
+- PHP
+- C#
+- Java
 
-🧠Programing Lenguages | HTML, CSS, JavaScript, Java, Python, PHP, C#
+### 🎯 MY OBJECTIVES
 
+- Find a job
+- Be continually learning and updating myself
 
+### ⚙ DEVELOPMENT TOOLS
 
-🎯Objectives | Find a job and continue training in programming
-
-
-
-🐱‍🏍My Studies | SMX (Sistemes Microinformátics en xarxa) || DAM (Desarrollo de Aplicaciones Multiplataforma)
-
-
-
-⚙ Tools | Figma -> Web Design, 
+- Figma -> Web Design
+- Visual Studio Code -> Framework
+- GitHub -> Save Code and Documents
