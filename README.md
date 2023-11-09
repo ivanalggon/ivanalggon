@@ -1,4 +1,4 @@
-📚Studing | DAW (Desarrollo de Aplicaciones Web)
+📚Studing | #DAW (Desarrollo de Aplicaciones Web)
 
 
 
@@ -10,9 +10,8 @@
 
 
 
-🐱‍🏍My Studies | SMX (Sistemes Microinformátics en xarxa)
-DAM (Desarrollo de Aplicaciones Multiplataforma)
+🐱‍🏍My Studies | SMX (Sistemes Microinformátics en xarxa) || DAM (Desarrollo de Aplicaciones Multiplataforma)
 
 
 
-                
+⚙ Tools | Figma -> Web Design, 
