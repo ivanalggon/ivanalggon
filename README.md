@@ -2,7 +2,7 @@
 
 - SMX (Networked Microcomputer Systems) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
 - DAM (Multiplatform Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
-- StudyingDAW (Web Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
+- (Studying) DAW (Web Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
   
 ## 🧠 PROGRAMMING LENGUAGES
 
