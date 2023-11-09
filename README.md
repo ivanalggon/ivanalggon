@@ -1,10 +1,10 @@
-### 🐱‍🏍 MY STUDIES
+## 🐱‍🏍 MY STUDIES
 
 - SMX (Networked Microcomputer Systems) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
 - DAM (Multiplatform Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
 - StudyingDAW (Web Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
   
-### 🧠 PROGRAMMING LENGUAGES
+## 🧠 PROGRAMMING LENGUAGES
 
 - HTML
 - CSS
@@ -14,12 +14,12 @@
 - C#
 - Java
 
-### 🎯 MY OBJECTIVES
+## 🎯 MY OBJECTIVES
 
 - Find a job
 - Be continually learning and updating myself
 
-### ⚙ DEVELOPMENT TOOLS
+## ⚙ DEVELOPMENT TOOLS
 
 - [Figma](https://www.figma.com/) -> Web Design
 - [Visual Studio Code](https://code.visualstudio.com/) -> Framework
