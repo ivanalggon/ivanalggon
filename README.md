@@ -14,6 +14,13 @@
 - C#
 - Java
 
+# 📕 Frameworks
+
+- Node.js
+- Angular
+- React.js
+- Laravel
+
 # 🎯 MY OBJECTIVES
 
 ### Improve Technical Skills:
@@ -33,6 +40,6 @@
 # ⚙ DEVELOPMENT TOOLS
 
 - [Figma](https://www.figma.com/) -> Web Design
-- [Visual Studio Code](https://code.visualstudio.com/) -> Framework
 - [GitHub](https://github.com/) -> Save Code and Documents
 - [LogSeq](https://logseq.com/) -> Documentation and notes
+- [Visual Studio Code](https://code.visualstudio.com/) -> Source code Editor
