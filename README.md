@@ -6,8 +6,8 @@ I'm a passionate **Software Developer** focused on expanding my knowledge and co
 
 - SMX (Networked Microcomputer Systems) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
 - DAM (Multiplatform Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
-- (Studying) DAW (Web Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
-  
+- DAW (Web Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
+- Studying - (Master of Videogame Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
 # 🧠 PROGRAMMING LENGUAGES
 
 - HTML, CSS, JavaScript, Python, PHP, C#, Java
