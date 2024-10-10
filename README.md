@@ -1,3 +1,7 @@
+# 👋 Hello, I'm Iván Alguacil González!
+
+I'm a passionate **Software Developer** focused on expanding my knowledge and contributing to impactful projects.
+
 # 📚 MY STUDIES
 
 - SMX (Networked Microcomputer Systems) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
@@ -6,34 +10,17 @@
   
 # 🧠 PROGRAMMING LENGUAGES
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- PHP
-- C#
-- Java
+- HTML, CSS, JavaScript, Python, PHP, C#, Java
 
 # 📕 Frameworks
 
-- Node.js
-- Angular
-- React.js
-- Laravel
+- Node.js, Angular, React.js, Laravel
 
-# 🎯 MY OBJECTIVES
+## 🎯 My Objectives
 
-### Improve Technical Skills:
-- Learn new programming languages.
-- Master new and relevant technologies and tools.
-  
-### Develop Personal Projects:
-- Create and launch my own website or application.
-- Contribute to open-source projects to gain collaborative experience.
-
-### Enhance Code Quality and Development Practices:
-- Stay updated on coding best practices.
-- Implement automated testing in my projects.
+- **Improve Technical Skills:** Continuously learn new programming languages and tools.
+- **Develop Personal Projects:** Build and launch my own applications, contribute to open-source projects.
+- **Enhance Code Quality:** Implement best practices and automated testing in all projects.
 
 
 
