@@ -1,4 +1,4 @@
-# 🐱‍🏍 MY STUDIES
+#📚 MY STUDIES
 
 - SMX (Networked Microcomputer Systems) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
 - DAM (Multiplatform Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
