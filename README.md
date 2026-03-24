@@ -28,25 +28,10 @@
 
 ## 🎯 PROJECTS
 
-## **Echoes Of The Abyss**  
-3D roguelike game developed in Unity with isometric perspective, featuring combat, exploration, enemy AI, and progressive difficulty in a dark cave environment.
-> 👉 [View Repository](https://github.com/ivanalggon/Echoes-Of-The-Abyss)
-
-## **Supermarket Simulator**  
-Simulation game in Unreal Engine where players explore a realistic supermarket, complete missions, and interact dynamically with the environment. Designed as a modern, expandable store simulation.  
-> 🚧 Work in progress
-
-## **Viewing Party Valorant**  
-  Web application project designed to create a unique space where players can watch professional Valorant tournaments and also compete in friendly matches, simulating a high-level tournament experience.
-  > 👉 [View Repository](https://github.com/ivanalggon/ViewingPartyValorant)
-
-## **Personal Portfolio**
-  My personal portfolio website showcases my projects, skills, and professional background. It is deployed online and accessible at:
-  > 👉 [ivanalggon.vercel.app](https://ivanalggon.vercel.app)
-
-  > 🚧 Work in progress
-
----
+- **Echoes Of The Abyss** – 3D roguelike game in Unity. [View Repository](https://github.com/ivanalggon/Echoes-Of-The-Abyss)  
+- **Supermarket Simulator** – Simulation in Unreal Engine with expandable store design. 🚧 Work in progress  
+- **Viewing Party Valorant** – Web app to watch tournaments & compete in matches. [View Repository](https://github.com/ivanalggon/ViewingPartyValorant)  
+- **Personal Portfolio** – My online portfolio, showcasing projects & skills. [Visit Webpage](https://ivanalggon.vercel.app) 🚧 Work in progress
 
 ## 📚 EDUCATION
 
