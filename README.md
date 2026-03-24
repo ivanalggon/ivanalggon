@@ -1,32 +1,55 @@
-# 👋 Hello, I'm Iván Alguacil González!
+# 👋 Hello, I'm Iván Alguacil!
 
-I'm a passionate **Software Developer** focused on expanding my knowledge and contributing to impactful projects.
+I am a Game Developer with a strong background in **Full Stack Web Development**. Passionate about building interactive experiences, both in games and web applications.
 
-# 📚 MY STUDIES
+## 🎮 GAME DEVELOPMENT
 
-- SMX (Networked Microcomputer Systems) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
-- DAM (Multiplatform Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
-- DAW (Web Application Development) [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
-- Master of Videogame Development [Monlau Centre d'Estudis - La Sagrera](https://www.monlau.com/)
-# 🧠 PROGRAMMING LENGUAGES
+- Unity (C#)
+- Unreal Engine
+- Gameplay Programming
+- Object-Oriented Programming
+- Game Systems & Mechanics
 
-- HTML, CSS, Java, JavaScript, Python, PHP, C#
+## 🌐 FULL STACK DEVELOPMENT
 
-# 📕 Frameworks
+- Frontend: React.js, Angular, HTML, CSS, JavaScript, TypeScript
+- Backend: Node.js, Python, PHP, Java
+- Databases: SQL
 
-- Node.js, Angular, React.js
+---
 
-## 🎯 My Objectives
+## 🎮 GAME PROJECTS
 
-- **Improve Technical Skills:** Continuously learn new programming languages and tools.
-- **Develop Personal Projects:** Build and launch my own applications, contribute to open-source projects.
-- **Enhance Code Quality:** Implement best practices and automated testing in all projects.
+## **Echoes Of The Abyss**  
+3D roguelike game developed in Unity with isometric perspective, featuring combat, exploration, enemy AI, and progressive difficulty in a dark cave environment.
+> 👉 [View Repository](https://github.com/ivanalggon/Echoes-Of-The-Abyss)
 
+## **Supermarket Simulator**  
+Simulation game in Unreal Engine where players explore a realistic supermarket, complete missions, and interact dynamically with the environment. Designed as a modern, expandable store simulation.  
+> 🚧 Work in progress
 
+---
 
-# ⚙ DEVELOPMENT TOOLS
+## 💻 WEB PROJECTS
 
-- [Figma](https://www.figma.com/) -> Web Design
-- [GitHub](https://github.com/) -> Save Code and Documents
-- [LogSeq](https://logseq.com/) -> Documentation and notes
-- [Visual Studio Code](https://code.visualstudio.com/) -> Source code Editor
+## **Viewing Party Valorant**  
+  Web application project designed to create a unique space where players can watch professional Valorant tournaments and also compete in friendly matches, simulating a high-level tournament experience.
+  > 👉 [View Repository](https://github.com/ivanalggon/ViewingPartyValorant)
+
+## **Personal Portfolio**
+  My personal portfolio website showcases my projects, skills, and professional background. It is deployed online and accessible at:
+  > 👉 [ivanalggon.vercel.app](https://ivanalggon.vercel.app)
+
+  > 🚧 Work in progress
+
+---
+
+## 📚 EDUCATION
+
+**Centre d’Estudis Monlau – La Sagrera, Barcelona**
+
+- Master in Videogame Development (Máster en Desarrollo de Videojuegos) – 2024–2025  
+- Advanced Vocational Training in Web Application Development (DAW) – 2023–2024  
+- Advanced Vocational Training in Multiplatform Application Development (DAM) – 2021–2023  
+- Intermediate Vocational Training in Networked Microcomputer Systems (SMX) – 2019–2021
+
