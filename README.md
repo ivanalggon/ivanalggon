@@ -35,10 +35,10 @@
 
 ## 📚 EDUCATION
 
-- Master in Videogame Development - 2024/2025
+- **Master in Videogame Development** - *2024/2025*
 
-- Web App Dev (CFGS-DAW) - 2023/2024
+- **Web App Dev (CFGS-DAW)** - *2023/2024*
 
-- Multiplatform App Dev (CFGS-DAM) - 2021/2023
+- **Multiplatform App Dev (CFGS-DAM)** - *2021/2023*
 
-- Networked Microcomputer Systems (CFGM-SMiX) - 2019/2021
+- **Networked Microcomputer Systems (CFGM-SMiX)** - *2019/2021*
