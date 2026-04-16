@@ -35,10 +35,10 @@
 
 ## 📚 EDUCATION
 
-| Degree / Course | Institution | Period |
-|-----------------|------------|--------|
-| Master in Videogame Development | Monlau Centre d'Estudis | 2024–2025 |
-| Advanced Vocational Training in Web App Dev (DAW) | Monlau Centre d'Estudis | 2023–2024 |
-| Advanced Vocational Training in Multiplatform App Dev (DAM) | Monlau Centre d'Estudis | 2021–2023 |
-| Intermediate Vocational Training in Networked Microcomputer Systems (SMX) | Monlau Centre d'Estudis | 2019–2021 |
+- Master in Videogame Development - 2024/2025
 
+- Web App Dev (CFGS-DAW) - 2023/2024
+
+- Multiplatform App Dev (CFGS-DAM) - 2021/2023
+
+- Networked Microcomputer Systems (CFGM-SMiX) - 2019/2021
